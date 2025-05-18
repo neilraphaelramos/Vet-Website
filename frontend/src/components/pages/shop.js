@@ -81,6 +81,9 @@ function ShopPage() {
                 <h1 className='title-text-2'>
                     Our Services
                 </h1>
+                <div className='services-container'>
+                    
+                </div>
             </div>
             <div className='page-3' ref={page3Ref}>
                 <h1 className='title-text-3'>
